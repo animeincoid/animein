@@ -20,6 +20,7 @@ nav {
   min-height: 8vh;
   background-color: #202020;
   font-family: sans-serif;
+  padding : 0 20px;
 }
 
 .logo h4 {
@@ -44,6 +45,7 @@ nav {
 
 .nav-links {
   display: flex;
+  padding : 0 20px;
 }
 
 body {
